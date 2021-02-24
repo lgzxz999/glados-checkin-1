@@ -1,4 +1,4 @@
-### 高能预警：现在签到全凭人品~
+### 高能预警：现在签到全凭人品~2
 # glados-checkin
 ![glados-checkin](https://github.com/hbstarjason/glados-checkin/workflows/glados-checkin/badge.svg)
 
